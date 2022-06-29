@@ -1,5 +1,7 @@
 // import Bootstrap from "./components/01-Bootstrap";
-import Bulma from "./components/02-Bulma";
+// import Bulma from "./components/02-Bulma";
+// import ReactBootstrap from "./components/03-ReactBootstrap";
+import MaterialUI from "./components/04-MaterialUI";
 
 
 function App() {
@@ -7,7 +9,9 @@ function App() {
     <div>
       <h1>CSS Frameworks in React</h1>
       {/* <Bootstrap /> */}
-      <Bulma />
+      {/* <Bulma /> */}
+      {/* <ReactBootstrap /> */}
+      <MaterialUI />
     </div>
   );
 }
