@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import MaterialCard from "./MaterialCard";
 import MaterialDrawer from "./MaterialDrawer";
 
